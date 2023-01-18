@@ -13,6 +13,7 @@
 #### 2022
 - [ ] [2022: Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection](https://arxiv.org/abs/2203.12121)
 - [ ] [2022: Fair Contrastive Learning for Facial Attribute Classification (FSCL)](https://arxiv.org/abs/2203.16209)
+- [ ] [2022: Use All The Labels: A Hierarchical Multi-Label Contrastive Learning Framework](https://arxiv.org/abs/2204.13207)
 
 
 #### 2021
